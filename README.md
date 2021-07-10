@@ -14,7 +14,7 @@
 
 **[Ds-digital](https://www.dafont.com/ds-digital.font "DS - Digital")**
 
-<p>Also you can run the script by using command: <p>
+<p>Also you can run the script by using the command: <p>
 
 ~~~Terminal
     python3 main.py
